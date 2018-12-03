@@ -31,6 +31,7 @@ all of the review material!
 | Exercise | Skills |
 | --- | --- |
 | [Hello #1](lib/01-hello/README.md) | Components, Props |
+| [Craigslist](lib/02-craigslist/README.md) | Components, Props |
 
 ## Plagiarism
 
