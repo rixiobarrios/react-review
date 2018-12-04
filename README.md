@@ -32,6 +32,7 @@ all of the review material!
 | --- | --- |
 | [Hello](lib/hello/README.md) | Components, Props |
 | [Craigslist](lib/craigslist/README.md) | Components, Props |
+| [To Do](lib/todo/README.md) | Components, State, Props, working with forms |
 | [Movie Viewer](lib/movie-viewer.md) | Components, Props, React Router |
 
 ## Plagiarism
