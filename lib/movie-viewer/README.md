@@ -12,7 +12,7 @@ Build a movie details viewer using React and React Router
 
 ## Instructions
 
-Create a react app in this directory (`lib/03-movie-viewer`) using
+Create a react app in this directory (`lib/movie-viewer`) using
 `create-react-app`. Then follow the requirements below.
 
 ## Requirements

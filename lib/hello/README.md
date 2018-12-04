@@ -11,7 +11,7 @@ Define a simple `<Hello />` component to practice working with props in React.
 
 ## Instructions
 
-Create a react app in this directory (`lib/01-hello`) using `create-react-app`.
+Create a react app in this directory (`lib/hello`) using `create-react-app`.
 Then follow the requirements below.
 
 ## Requirements

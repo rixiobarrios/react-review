@@ -11,7 +11,7 @@ Recreate the results page of Craigslist using the data provided
 
 ## Instructions
 
-Create a react app in this directory (`lib/01-craigslist`) using
+Create a react app in this directory (`lib/craigslist`) using
 `create-react-app`. Then follow the requirements below.
 
 ## Requirements
