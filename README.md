@@ -30,7 +30,7 @@ all of the review material!
 
 | Exercise | Skills |
 | --- | --- |
-| [Hello #1](lib/01-hello/README.md) | Components, Props |
+| [Hello](lib/01-hello/README.md) | Components, Props |
 | [Craigslist](lib/02-craigslist/README.md) | Components, Props |
 | [Movie Viewer](lib/03-movie-viewer.md) | Components, Props, React Router |
 
