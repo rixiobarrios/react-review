@@ -31,14 +31,14 @@ You should have the following components:
 
 * App - highest level component, renders all others and passes props down.
     Should just render Header and Results
-* Header - the header navigation bar with the title and navigation
-* Nav - the list of navigation links in the header
-* Results - The main component on this page
-* ResultsHeader - the section of the Results with the breadcrumbs and title
-* Breadcrumbs - the breadcrumbs on the page
-* ResultsList - container component for the list of results
-* Result - component for an individual search result (commonly called a "Card"
-    component)
+  * Header - the header navigation bar with the title and navigation
+    * Nav - the list of navigation links in the header
+  * Results - The main component on this page
+    * ResultsHeader - the section of the Results with the breadcrumbs and title
+      * Breadcrumbs - the breadcrumbs on the page
+    * ResultsList - container component for the list of results
+      * Result - component for an individual search result (commonly called a "Card"
+        component)
 
 ## Plagiarism
 
