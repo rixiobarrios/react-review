@@ -2,8 +2,7 @@
 
 # React Review
 
-Use this repository to review the material covered in this unit that is likely
-to appear on the Checkpoint.
+Use this repository to review the material covered in this unit.
 
 ## Prerequisites
 
@@ -19,7 +18,9 @@ to appear on the Checkpoint.
 1. Change into the new directory.
 1. Fulfill the listed requirements.
 
-The review prompts can all be found inside [`lib/`](lib/).
+The review prompts can all be found inside [`lib/`](lib/). You are required to turn in your submission by making a pull request on the original repository.
+
+This assignment will be due Tuesday, 1/22 at 10AM Eastern
 
 ## Requirements
 
