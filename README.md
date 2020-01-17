@@ -12,7 +12,6 @@ to appear on the Checkpoint.
 * Components and State
 * Component Lifecycle
 * React Router
-* MERN
 
 ## Instructions
 
